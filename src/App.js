@@ -4,8 +4,8 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <h1>My React Netlify Application</h1>
-        <p>Here's some more stuff to add to this component :fire: </p>
+        <h1>Cal/Hals favourite link</h1>
+        <a rel="noreferrer" href="https://youtu.be/dQw4w9WgXcQ" target="_blank">SIMPLY THE BEST</a>
       </header>
     </div>
   );
